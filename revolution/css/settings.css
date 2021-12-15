@@ -1346,8 +1346,8 @@ img.tp-slider-alternative-image	{
 .tparrows						{	cursor:pointer; width:40px;height:40px;position:absolute; display:block; z-index:1000;}
 
 .tparrows:before				{	font-family: "fontawesome"; font-size:22px; color:#fff; display:block; line-height: 40px; text-align: center;}
-.tparrows.tp-leftarrow:before	{	content: '\f104'; }
-.tparrows.tp-rightarrow:before	{	content: '\f105'; }
+.tparrows.tp-leftarrow:before	{	content: '\f060'; }
+.tparrows.tp-rightarrow:before	{	content: '\f061'; }
 
 
 

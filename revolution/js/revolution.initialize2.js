@@ -30,7 +30,7 @@ onHoverStop:"off",
 },
 arrows: {
     style:"",
-    enable:false,
+    enable:true,
     hide_onmobile:true,
     hide_onleave:true,
     tmp:'',
