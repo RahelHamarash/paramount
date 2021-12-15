@@ -204,7 +204,7 @@ main.lght:before {
 	float: left;
 	width: 100%;
 	position: relative;
-	margin-bottom: 250px !important;
+	margin-bottom: 100px !important;
 }
 .wrapper.no-fixing {
 	margin-bottom: inherit !important;
