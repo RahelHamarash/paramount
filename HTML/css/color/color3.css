@@ -1,0 +1,318 @@
+::selection {
+	color: #FFF;
+	background: #C4BD4A;
+}
+a:hover, a:focus{
+color: #C4BD4A;
+}
+.btn-success.active, .btn-success:active, .btn-success:focus, .btn-success:hover, .open .dropdown-toggle.btn-success{
+background: #C4BD4A;
+border-color: #C4BD4A;
+}
+.has-success .form-control-feedback {
+	color: #C4BD4A;
+}
+#hs_header{
+background: #C4BD4A;
+}
+.hs_copyright{
+background:#C4BD4A;
+}
+.hs_sidebar_categories ul li a:hover{
+	color:#C4BD4A;
+}
+.hs_blog_categorie_detail .hs_blog_categorie_date ul li a:hover {
+	color:#C4BD4A;
+}
+@media (max-width: 767px) {
+#hs_header .hs_menu {
+    background: #C4BD4A;
+}
+#hs_header .hs_menu li > ul {
+    background: #C4BD4A;
+}
+#hs_header .hs_menu li > ul li > ul > li{
+background:#C4BD4A;
+}
+#hs_header .hs_menu li > ul li > ul > li:hover{
+background: #C4BD4A;
+}
+}
+.ls_large_text_01{
+background: #C4BD4A;
+}
+.ls_large_text_02{
+background: #C4BD4A;
+}
+#style-switcher .bottom a.settings i{
+color: #C4BD4A;
+}
+.ls-fullwidth .ls-nav-next{
+background-color:#C4BD4A;
+}
+.ls-fullwidth .ls-nav-prev{
+background-color: #C4BD4A;
+}
+#hs_header .hs_menu li:hover a{
+color: #C4BD4A;
+}
+#hs_header .hs_menu li > ul > li > ul > li:first-child.fa-chevron-right:before{
+color: #C4BD4A;
+}
+.hs_service:hover svg{
+fill: #C4BD4A;
+}
+.hs_service:hover h4{
+color: #C4BD4A;
+}
+.hs_service:hover{
+border-bottom: 2px solid #C4BD4A;
+}
+.tab-content{
+border-bottom: 2px solid #C4BD4A;
+}
+.hs_heading{
+color: #C4BD4A;
+}
+.hs_appointment_form_div{
+border-bottom: 2px solid #C4BD4A;
+}
+.btn-default:hover, .btn-default:focus, .btn-default:active, .btn-default.active, .open .dropdown-toggle.btn-default{
+background-color: #C4BD4A;
+border-color: #C4BD4A;
+}
+.up_coming_events_slider_item:hover .hs_event_div{
+border-bottom: 2px solid #C4BD4A;
+}
+.our_doctor_team_slider_item:hover{
+background: #C4BD4A;
+}
+.our_doctor_team_slider_item:hover .hs_team_member_detail h3{
+color: #C4BD4A;
+}
+.our_doctor_team_slider_item:hover .hs_team_member_detail{
+border-bottom: 2px solid #C4BD4A;
+}
+.hs_testimonial p i{
+color: #C4BD4A;
+}
+.hs_theme_color{
+color: #C4BD4A;
+}
+.hs_testimonial{
+border-bottom: 2px solid #C4BD4A;
+}
+#bx-pager a:hover img{
+border-bottom: 2px solid #C4BD4A;
+}
+.our_partners_slider_item:hover{
+border-bottom: 2px solid #C4BD4A;
+}
+#hs_footer{
+background:#C4BD4A;
+}
+.nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus{
+background-color: #C4BD4A;
+border: 1px solid #C4BD4A;
+}
+.nav-tabs > li > a{
+border: 1px solid #C4BD4A;
+border-bottom-color: rgba(255,255,255,0);
+}
+.form-control:focus{
+border-color: #C4BD4A;
+}
+input[type="date"]:focus{
+border: 1px solid #C4BD4A;
+}
+.up_coming_events_slider_item:hover .hs_event_date {
+	background: #C4BD4A;
+}
+.up_coming_events_slider_item:hover .hs_event_date:before {
+	border-left: 2px dashed #C4BD4A;
+}
+.hs_page_title{
+background:#C4BD4A;
+}
+.hs_how_we_are_text h4{
+color:#C4BD4A;
+}
+.hs_how_we_are_text{
+border-bottom: 2px solid #C4BD4A;
+}
+.health_care_team_slider_item:hover img {
+background:#C4BD4A;
+}
+.health_care_team_slider_item:hover .hs_team_member_detail h4{
+color:#C4BD4A;
+}
+.health_care_team_slider_item:hover .hs_team_member_detail{
+border-bottom: 2px solid #C4BD4A;
+}
+.panel-default > .panel-heading{
+background:#C4BD4A;
+}
+.testimonial{
+border-bottom: 2px solid #C4BD4A;
+}
+.releted_post_slider_item:hover .related_post_date{
+background:#C4BD4A;
+}
+.releted_post_slider_item:hover .releted_post_detail h4{
+color:#C4BD4A;
+}
+.releted_post_slider_item:hover .releted_post_detail{
+border-bottom: 2px solid #C4BD4A;
+}
+.portfolio-filter li a:hover, .portfolio-filter li a.active{
+color:#C4BD4A;
+}
+.portfolio-details{
+border-bottom: 2px solid #C4BD4A;
+}
+.portfolio-details > h4{
+color:#C4BD4A;
+}
+.portfolio-details2{
+border-bottom: 2px solid #C4BD4A;
+}
+.portfolio-details2 > h4{
+color:#C4BD4A;
+}
+.btn-success{
+background-color: #C4BD4A;
+border-color: #C4BD4A;
+}
+#patients_testimonials_slider .patients_testimonials_slider_item:hover h4{
+color:#C4BD4A;
+}
+#patients_testimonials_slider .patients_testimonials_slider_item:hover{
+border-bottom: 2px solid #C4BD4A;
+}
+.carousel-control:hover, .carousel-control:focus{
+color: #C4BD4A;
+}
+.hs_blog_categorie_pager li.active a{
+color: #C4BD4A;
+}
+.hs_post_tab ul li a.active{
+color: #C4BD4A;
+}
+.hs_post_tab_content .hs_post:hover{
+border-left: 2px solid #C4BD4A;
+}
+.hs_post_tab_content .hs_post:hover p{
+color: #C4BD4A;
+}
+.hs_post_tab_content{
+border-bottom: 2px solid #C4BD4A;
+}
+.hs_sidebar_categories:hover{
+border-bottom: 2px solid #C4BD4A;
+}
+.health_care_advice .hs_post:hover{
+border-left: 2px solid #C4BD4A;
+}
+.health_care_advice .hs_post:hover h4{
+color: #C4BD4A;
+}
+.health_care_advice{
+border-bottom: 2px solid #C4BD4A;
+}
+.hs_tags ul li a:hover{
+background: #C4BD4A;
+}
+.hs_blog_categorie_detail{
+border-bottom: 2px solid #C4BD4A;
+}
+.hs_pager ul li a:hover {
+color: #C4BD4A;
+border: 1px solid #C4BD4A;
+}
+.hs_comment_form{
+border-bottom: 2px solid #C4BD4A;
+}
+.hs_comment{
+border-bottom: 2px solid #C4BD4A;
+}
+.hs_sub_comment_div > .hs_sub_comment:before{
+border-left: 2px solid #C4BD4A;
+border-bottom: 1px solid #C4BD4A;
+}
+.hs_single_profile .hs_single_profile_detail > div > div > a{
+color: #C4BD4A;
+}
+.hs_profile_social ul li:hover a {
+border-color: #C4BD4A;
+background: #C4BD4A;
+}
+.post_by_slider_item:hover .post_by_detail{
+border-bottom: 2px solid #C4BD4A;
+}
+.btn-primary{
+background-color: #C4BD4A;
+border-color: #C4BD4A;
+}
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open .dropdown-toggle.btn-primary{
+background-color: #C4BD4A;
+border-color: #C4BD4A;
+}
+.panel-title > a:hover{
+color:#fff;
+}
+blockquote{
+border-left: 5px solid #C4BD4A;
+}
+.blockquote-reverse, blockquote.pull-right{
+border-right: 5px solid #C4BD4A;
+}
+.portfolio-grid .portfolio-item:hover{
+background:#C4BD4A;
+}
+.portfolio-grid .portfolio-item:hover .portfolio_doctor_details h4{
+color:#C4BD4A;
+}
+.portfolio-grid .portfolio-item:hover .portfolio_doctor_details{
+border-bottom: 2px solid #C4BD4A;
+}
+.hs_contact_heading{
+color: #C4BD4A;
+}
+.hs_contact ul li i {
+border: 1px solid #C4BD4A;
+background: #C4BD4A;
+}
+.hs_contact_social{
+border-bottom: 2px solid #C4BD4A;
+}
+.hs_additional_support:hover h4 {
+	color: #C4BD4A;
+}
+.hs_additional_support:hover{
+border-bottom-color: #C4BD4A;
+}
+.btn-link{
+color: #C4BD4A;
+}
+.btn-link{
+color: #C4BD4A;
+}
+#style-switcher > div > h3{
+color: #C4BD4A !important;
+}
+#picker{
+border: 1px solid #C4BD4A;
+border-right: 40px solid #C4BD4A;
+}
+.hs_checkbox{
+	background-image: url(../../images/icon/E54242.png);
+	}
+#bx-pager a.active img{
+border-color:#C4BD4A;
+}		
+.hs_nav_toggle{
+background: #C4BD4A !important;
+}
+.panel-body .hs_hospital_update:hover img{
+border-left: 2px solid #C4BD4A;
+}
