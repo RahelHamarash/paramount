@@ -14,7 +14,7 @@ sliderType:"standard",
 jsFileLocation:"../../revolution/js/",
 sliderLayout:"full",
 dottedOverlay:"none",
-delay:9000,
+delay:2000,
 navigation: {
 keyboardNavigation:"on",
 keyboard_direction: "horizontal",
@@ -61,9 +61,9 @@ type:"mouse",
 },
 shadow:0,
 spinner:"spinner3",
-stopLoop:"on",
+stopLoop:"off",
 stopAfterLoops:1,
-stopAtSlide:1,
+stopAtSlide:0,
 shuffle:"off",
 autoHeight:"off",
 fullScreenAutoWidth:"off",
@@ -80,6 +80,7 @@ fallbacks: {
 simplifyAll:"off",
 nextSlideOnWindowFocus:"off",
 disableFocusListener:false,
+
 }
 });
 /* STATIC SNOW FLAKE CONTAINER SETTINGS */

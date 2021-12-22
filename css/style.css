@@ -338,7 +338,7 @@ div.pb {
 	margin-top: 40px;
 }
 .header-bar {
-	float: left;
+	float: left;	
 	width: 100%;
 	padding: 0 30px;
 }
@@ -1623,6 +1623,7 @@ footer:hover {
 	padding: 30px 25px;
 	position: relative;
 	z-index: 999;
+	padding-bottom: 40px !important;
 }
 .service-info {
 	float: left;
@@ -2536,6 +2537,7 @@ main.lght .ep-icon:after {
 	font-size: 14px;
 	line-height: 24px;
 	padding-right: 20px;
+
 }
 .listing-info > a {
 	float: left;
@@ -2555,6 +2557,7 @@ main.lght .ep-icon:after {
 .listing-info > a:hover {
 	color: #ffa800;
 }
+
 .load-more-items.ls-pd {
 	padding-top: 60px;
 }
@@ -2562,6 +2565,7 @@ main.lght .ep-icon:after {
 	padding: 0 15px;
 	margin-bottom: 45px;
 	min-height: 450px;
+	
 }
 
 /* ======== post-pagination ======= */
@@ -4531,3 +4535,9 @@ main.lght .ep-icon:after {
 .pd-right-none {
 	padding-right: 0;
 }
+
+.our-services .row .col-lg-4{
+
+	margin-bottom: 20px;
+}
+
