@@ -1,4 +1,6 @@
-$(window).on("load", function() {
+$(document).ready(() => {
+
+  $(window).on("load", function() {
     "use strict";
 
 
@@ -100,5 +102,8 @@ $(window).on("load", function() {
 
 
 });
+
+})
+
 
 

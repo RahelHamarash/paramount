@@ -657,3 +657,12 @@
 @media (max-width: 400px) {
 	.company-properties {bottom: 5px;padding: 0 15px}
 }
+
+
+p{
+	
+	text-align: justify;
+	word-break:break-all;
+
+
+}
